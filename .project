@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%George Njau%Katalon Studio%FLEX PAY VERSION 2 TESTING%FLEX PAY VERSION 2 TESTING.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1249971150637195780.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-1249971150637195780.groovy</location>
+		</link>
+		<link>
+			<name>kat-167993228216785677.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-167993228216785677.groovy</location>
+		</link>
+		<link>
+			<name>kat-1735668591314013300.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-1735668591314013300.groovy</location>
+		</link>
+		<link>
+			<name>kat-2293400787858773629.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-2293400787858773629.groovy</location>
+		</link>
+		<link>
+			<name>kat-3725826317383681054.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-3725826317383681054.groovy</location>
+		</link>
+		<link>
+			<name>kat-6125510714630652258.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-6125510714630652258.groovy</location>
+		</link>
+		<link>
+			<name>kat-6544521550831216312.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-6544521550831216312.groovy</location>
+		</link>
+		<link>
+			<name>kat-8608236182362453886.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-8608236182362453886.groovy</location>
+		</link>
+		<link>
+			<name>kat-8618669852656165853.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-8618669852656165853.groovy</location>
+		</link>
+		<link>
+			<name>kat-9004622716626223990.groovy</name>
+			<type>1</type>
+			<location>C:/Users/GEORGE~1/AppData/Local/Temp/Katalon/Web Services/kat-9004622716626223990.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1543300544647</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543300544661</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543363957028</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543363957096</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543807178288</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1543807178309</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
